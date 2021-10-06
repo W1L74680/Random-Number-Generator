@@ -2,7 +2,7 @@ import random
 import os
 import time
 
-#create a function that clear the. console
+#create a function that clear the console
 def clear():
     if os.name == "nt":
         os.system("cls")
